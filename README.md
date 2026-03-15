@@ -27,7 +27,7 @@ User → API Gateway → Lambda → Amazon Bedrock → Response
 5. Deploy frontend to S3
 
 ## 🧹 Clean Up
-Delete resources from:
+Delete resources:
 - Lambda
 - API Gateway
 - S3
